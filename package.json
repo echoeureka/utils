@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  },
+  "name": "utils",
+  "description": "utils of Ryan Moyo",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanmoyo/utils.git"
+  },
+  "author": "Ryan Moyo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanmoyo/utils/issues"
+  },
+  "homepage": "https://github.com/ryanmoyo/utils#readme"
+}
